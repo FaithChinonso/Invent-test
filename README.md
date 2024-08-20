@@ -1,6 +1,7 @@
 # Invent-test
 
-Technical Test Solutions
+<b>Technical Test Solutions</b>
+<br/>
 Overview
 This repository contains solutions for two coding problems: a FizzBuzz implementation and a search insert function. The solutions are written in JavaScript and are designed to handle various edge cases effectively.
 
